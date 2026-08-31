@@ -1,2 +1,3 @@
 # hello-world
 Computer Engineering major at NCAT focused on systems, hardware, and security. Pursuing a path toward Cybersecurity Engineering with interests in network defense, threat analysis, and secure infrastructure. Also exploring military pathways for structured technical training.
+My name is Tyriek, I’m from Fayetteville, NC, and I keep myself occupied for the most part whether that's sports, gaming, or just trying to level up in life. I ran track in high school and held my own in sprints, and football kept me busy every fall. Outside of sports, I’m big on spending time with family, cooking simple things, and just getting out the house. I’m a laid‑back person, but I stay focused on improving myself every chance I get.
